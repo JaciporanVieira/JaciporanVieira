@@ -3,7 +3,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaciporanVieira)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaciporan-vieira-silva-483564158/)
 
-* Cursando Análise e Desenvolvimento de Software (4° Período)
+* Cursando Análise e Desenvolvimento de Sistemas (4° Período)
 * Estudante assíduo, em paralelo com cursos, workshops e bootcamps.
 
 ## Tecnologias que já obtive conhecimento:
