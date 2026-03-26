@@ -1,7 +1,9 @@
 # Jaciporan Vieira da Silva
-### Desenvolvedor FullStack | Java | Cloud | Android
+### Desenvolvedor FullStack | Java | Nuvem | Android
 
-Desenvolvedor focado na construção de sistemas eficientes e arquiteturas modernas. Atuação com o ecossistema **Java (Spring)**, **Cloud (AWS)** e desenvolvimento mobile com **Jetpack Compose**. Graduado em Análise e Desenvolvimento de Sistemas.
+Analista de Tecnologia na **Capgemini**, com sólida experiência no desenvolvimento de ecossistemas **Java (Spring Boot/MVC)** e arquiteturas modernas (**DDD, Hexagonal, MVC**). Possuo vivência em ambientes corporativos de missão crítica, com histórico em infraestrutura de Data Center, servidores Unix e alta disponibilidade.
+
+Focado em entregar código de alta qualidade através de **TDD (JUnit, Mockito)** e práticas de **CI/CD**, atuando sempre sob metodologias ágeis (Scrum/Kanban).
 
 ---
 
@@ -20,14 +22,15 @@ Desenvolvedor focado na construção de sistemas eficientes e arquiteturas moder
 
 ---
 
-### 🛠️ Core Stack
+### 🛠️ Core Stack & Expertise
 
-| Especialidade | Tecnologias e Ferramentas |
+| Domínio | Competências |
 | :--- | :--- |
-| **Backend** | `Java` `Spring Boot` `Node.js` `Python` `REST APIs` |
-| **Frontend** | `Angular` `TypeScript` `JavaScript` `HTML5/CSS3` |
-| **Mobile** | `Android` `Kotlin` `Jetpack Compose` |
-| **Infra & Dados** | `Amazon AWS` `PostgreSQL` `Docker` `Git` |
+| **Backend** | `Java` `Spring Boot` `Spring MVC` `JPA` `APIs REST` `Python` |
+| **Frontend/Mobile** | `Angular` `TypeScript` `Kotlin` `Jetpack Compose` |
+| **Arquitetura** | `DDD (Domain Driven Design)` `Arquitetura Hexagonal` `MVC` |
+| **Infra & DevOps** | `Cloud AWS` `Unix` `Azure DevOps` `Docker` `CI/CD` |
+| **Dados & Monitoramento** | `PostgreSQL` `Oracle` `Zabbix` `Backup/Restore` |
 
 ---
 
@@ -38,6 +41,15 @@ Desenvolvedor focado na construção de sistemas eficientes e arquiteturas moder
 
 ---
 
+### 📈 Métricas de Desenvolvimento
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaciporanVieira&show_icons=true&theme=omni&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaciporanVieira&layout=compact&theme=omni&hide_border=true" />
+</p>
+
+---
+
 <p align="center">
-  <i>"Um dia sem estudar é um dia a mais entre você e seu objetivo."</i>
+  <i>"Responsabilidade operacional e qualidade de código como pilares para soluções de missão crítica."</i>
 </p>
