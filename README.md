@@ -1,49 +1,37 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0078D7&height=200&section=header&text=Olá,%20sou%20o%20Jaciporan%20Vieira👋&fontSize=40&fontColor=fff&animation=fadeIn" />
-</p>
+# Olá, eu sou o Jaciporan Vieira 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jaciporan-vieira-silva-483564158/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/JaciporanVieira">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:jaciporan@email.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### 🚀 Desenvolvedor FullStack | Java | Cloud | Android
 
-<h2 align="center">👨‍💻 Sobre Mim</h2>
-
-<p align="center">
-  🚀 Desenvolvedor FullStack focado em construir soluções eficientes e escaláveis. <br>
-  🎓 Graduado em <b>Análise e Desenvolvimento de Sistemas</b>. <br>
-  📚 Estudante assíduo, sempre me atualizando com cursos, workshops e bootcamps.
-</p>
+Eu sou um desenvolvedor focado em criar soluções robustas e escaláveis. Atualmente, dedico meu tempo ao aprimoramento de arquiteturas modernas e ao desenvolvimento de aplicações de alto impacto.
 
 ---
 
-<h2 align="center">🛠️ Tecnologias e Habilidades</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Front--End-HTML5%2C%20CSS3%2C%20JS%2C%20Angular-0078D7?style=flat-square&logo=angular&logoColor=white" /> <br>
-  <img src="https://img.shields.io/badge/Back--End-Node.js%2C%20Java%2C%20Spring%2C%20Python-323330?style=flat-square&logo=node.js&logoColor=white" /> <br>
-  <img src="https://img.shields.io/badge/Banco%20de%20Dados-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" /> <br>
-  <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-Amazon%20AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-</p>
+### 📧 Contato e Redes
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaciporan-vieira-silva-483564158/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaciporanVieira)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaciporan@email.com)
 
 ---
 
-<h2 align="center">📊 Estatísticas</h2>
+### 🛠️ Tecnologias e Habilidades
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaciporanVieira&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaciporanVieira&layout=compact&theme=dark" />
-</p>
+| Camada | Tecnologias |
+| :--- | :--- |
+| **Front-End** | `HTML5` `CSS3` `JavaScript` `Angular` |
+| **Back-End** | `Node.js` `Java` `Spring Boot` `Python` |
+| **Mobile** | `Kotlin` `Jetpack Compose` |
+| **Banco de Dados** | `PostgreSQL` |
+| **Cloud & DevOps** | `Amazon AWS` |
 
 ---
 
-<p align="center">
-  <i>"Um dia sem estudar, é um dia a mais entre você e seu objetivo."</i>
-</p>
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaciporanVieira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaciporanVieira&layout=compact&theme=tokyonight"/>
+</div>
+
+---
+
+> *"Um dia sem estudar é um dia a mais entre você e seu objetivo."*
