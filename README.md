@@ -38,15 +38,6 @@ Desenvolvedor focado na construção de sistemas eficientes e arquiteturas moder
 
 ---
 
-### 📈 Métricas de Desenvolvimento
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaciporanVieira&show_icons=true&theme=omni&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaciporanVieira&layout=compact&theme=omni&hide_border=true" />
-</p>
-
----
-
 <p align="center">
   <i>"Um dia sem estudar é um dia a mais entre você e seu objetivo."</i>
 </p>
