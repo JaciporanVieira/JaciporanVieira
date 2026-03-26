@@ -1,5 +1,5 @@
 # Jaciporan Vieira da Silva
-### FullStack Developer | Java & Cloud Specialist
+### FullStack Developer | Java & Cloud 
 
 Especialista em desenvolvimento de software com foco em sistemas escaláveis e arquiteturas modernas. Atualmente focado em ecossistemas **Java (Spring)**, **Cloud (AWS)** e soluções móveis com **Jetpack Compose**. Graduado em Análise e Desenvolvimento de Sistemas.
 
