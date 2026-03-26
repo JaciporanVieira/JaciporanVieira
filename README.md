@@ -35,5 +35,5 @@ Atuo na entrega de código de alta qualidade através de **TDD (JUnit, Mockito)*
 ---
 
 <p align="center">
-  <i>"Um dia sem estudar é um dia a mais entre você e seu objetivo."</i>
+  <i>"Um dia sem estudar, é um dia a mais entre você e seu objetivo."</i>
 </p>
