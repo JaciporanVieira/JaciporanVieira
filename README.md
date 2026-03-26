@@ -34,22 +34,6 @@ Focado em entregar código de alta qualidade através de **TDD (JUnit, Mockito)*
 
 ---
 
-### 🚀 Projetos em Destaque
-
-* **[Controle de Fluxo Compose](https://github.com/JaciporanVieira/jaciporan.controlefluxo):** Sistema de navegação reativa e gerenciamento de estado para múltiplos perfis de acesso.
-* **[QuizInterativo](https://github.com/JaciporanVieira/QuizInterativo):** Aplicação Android explorando lógica de controle e interface dinâmica.
-
----
-
-### 📈 Métricas de Desenvolvimento
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaciporanVieira&show_icons=true&theme=omni&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaciporanVieira&layout=compact&theme=omni&hide_border=true" />
-</p>
-
----
-
 <p align="center">
-  <i>"Responsabilidade operacional e qualidade de código como pilares para soluções de missão crítica."</i>
+  <i>"Um dia sem estudar é um dia a mais entre você e seu objetivo."</i>
 </p>
